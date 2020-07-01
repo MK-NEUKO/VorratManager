@@ -4,18 +4,18 @@ Der VorratManager im folgenden VM genannt, besteht im wesentlichen aus drei Teil
 
 	1. Datenbank
 Die Datenbank soll durch eine MySQL-Datenbank realisiert werden. Die Kommunikation ist vorzugsweise über LAN bzw. WLAN gedacht.
-Ein Homeserver währe die gedacht Umgebung. 
+Ein Homeserver währe die bevorzugte Umgebung. 
 	 
 	2. Desktopanwandungen
 Die Desktopanwandungen ist das Herzstück und beinhaltet die meiste Funktionalität.
-	• Eingabe eines Datensatzes, bestehen aus, Artikelbezeichnung, Hersteller, MHD, Inhalt in Volumen, Anzahl pro Volumen, Lagerort Lagerunterort, Kategorie, Barcode
-	Es können noch weiterehinzukommen.
-	• Generieren eines Barcode für jeden Artikel 
-	• Anzeigen der Artikel, verschieden sortiert
-	• Anzeigen einer Baumstruktur nach Kategorie
-	• Anzeigen einer Baumstruktur nach Ort-Unterort 
-	• Meldung zum MHD, ablaufende Artikel
-	• Ausdrucken verschieden sortierter Listen in Tabellenform. 
+• Eingabe eines Datensatzes, bestehen aus, Artikelbezeichnung, Hersteller, MHD, Inhalt in Volumen, Anzahl pro Volumen, Lagerort Lagerunterort, Kategorie, Barcode
+  Es können noch weiterehinzukommen.
+• Generieren eines Barcode für jeden Artikel 
+• Anzeigen der Artikel, verschieden sortiert
+• Anzeigen einer Baumstruktur nach Kategorie
+• Anzeigen einer Baumstruktur nach Ort-Unterort 
+• Meldung zum MHD, ablaufende Artikel
+• Ausdrucken verschieden sortierter Listen in Tabellenform. 
 Das sind nur die Grundfunktionen, mehr kann bei der Entwicklung noch einflißen. 
 
 	3. Mobile App 
